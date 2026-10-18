@@ -9,3 +9,5 @@ Features:
 - Filters: Protein Range & Beverage Prep
 
 Tool: Power BI Desktop
+## 📸 Dashboard Preview
+![Dashboard](Screenshot%202026-10-18%20152852.png)
