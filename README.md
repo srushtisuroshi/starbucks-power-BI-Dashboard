@@ -1,2 +1,11 @@
-# starbucks-power-BI-Dashboard
-Power BI Dashboard for Starbucks beverages - Analysis of 33 drinks,calories,caffeine ,sugar &amp;protein insights
+# Starbucks Dashboard ☕
+
+This dashboard analyzes Starbucks beverage data (33 beverages).
+
+Features:
+- Total Beverages, Avg Calories, Avg Sugar, Avg Caffeine
+- Calories by Category & Global Presence
+- Top 5 High Caffeine Drinks
+- Filters: Protein Range & Beverage Prep
+
+Tool: Power BI Desktop
